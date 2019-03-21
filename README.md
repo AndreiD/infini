@@ -1,5 +1,7 @@
 # infini
 
+complexity: O(initial_list_size * minimum_of((initial_list_size - 1) / 2,  Math.sqrt(maxInput / minInput)
+
 build instructions:
 
 IntellJ IDEA or any other prefered IDE
